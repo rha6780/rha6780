@@ -1,7 +1,7 @@
  
 ### ⚡️ Study Steady...!
 
-🐢 study steady is my moto!!
+🐢 study steady is my motto!!
  
    - Algorithm
      - [Beakjoon](https://www.acmicpc.net/user/rha6780)
