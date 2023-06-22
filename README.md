@@ -12,7 +12,7 @@
 
 
    <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-FAAC58.svg?&style=for-the-badge&logo=JAVA&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img alt="Ruby" src ="https://img.shields.io/badge/Ruby-FA5858.svg?&style=for-the-badge&logo=Ruby&logoColor=white"/> 
-<img alt="Django" src ="https://img.shields.io/badge/Django-04B431.svg?&style=for-the-badge&logo=Django&logoColor=white"/> <img alt="GithubAction" src ="https://img.shields.io/badge/Github_Action-6E6E6E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Django" src ="https://img.shields.io/badge/Django-04B431.svg?&style=for-the-badge&logo=Django&logoColor=white"/> <img alt="Next.js" src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white" /><img alt="GithubAction" src ="https://img.shields.io/badge/Github_Action-6E6E6E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> <img alt="Terraform" src ="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=Terraform&logoColor=white"/> <img alt="Postgresql" src ="https://img.shields.io/badge/Postgresql-4169E1.svg?&style=for-the-badge&logo=Postgresql&logoColor=white"/>
  
  <br>
