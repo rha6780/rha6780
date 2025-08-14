@@ -1,15 +1,17 @@
  
-### ⚡️ Study Steady...!
+# rha6780 (변세정)
 
-🐢 study steady is my motto!!
- 
-   - Algorithm
-     - [Beakjoon](https://www.acmicpc.net/user/rha6780)
-     - [Codeforces](https://codeforces.com/profile/rha6780)
-   - [Blog History](https://rha6780.github.io)
+### Interested in ...
+- 인프라 & 백엔드 위주로 공부 중입니다..!
+JAVA 위주로 공부 중이고, 알고리즘 공부도 병행하고 있습니다. 
+- 최근에는 Terraform 관련내용에 관심이 많습니다.
+- 홈서버 구축을 통해 제가 하고 싶은 프로젝트를 진행하는 걸 목표로 여러가지 참고 하고 있습니다.
+   
+- [블로그 살펴보기 *⸜( •ᴗ• )⸝*](https://rha6780.github.io) 
 
 <br>
 
+## Skill list
 
    <img alt="Ruby"
                     src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=for-the-badge&logo=Ruby&logoColor=white" />
@@ -35,6 +37,16 @@
                     src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=Terraform&logoColor=white" />
  
  <br>
+
+## Solved.ac
  
+> ( [Beakjoon](https://www.acmicpc.net/user/rha6780) ) || ( [Codeforces](https://codeforces.com/profile/rha6780) )
+
+
+ ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rha6780)
+ 
+
+## 깃 활동 요약
+
  [![rha6780 GitHub Status](https://github-readme-stats.vercel.app/api?username=rha6780&count_private=true&show_icons=true)](https://github.com/rha6780/github-readme-stats) [![rha6780 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rha6780&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rha6780)
 
