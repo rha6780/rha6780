@@ -47,6 +47,6 @@ JAVA 위주로 공부 중이고, 알고리즘 공부도 병행하고 있습니�
  
 
 ## 깃 활동 요약
+![rha6780 GitHub stats](https://github-readme-stats.vercel.app/api?username=rha6780&show_icons=true&theme=radical)
 
- [![rha6780 GitHub Status](https://github-readme-stats.vercel.app/api?username=rha6780&count_private=true&show_icons=true)](https://github.com/rha6780/github-readme-stats) [![rha6780 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rha6780&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rha6780)
 
