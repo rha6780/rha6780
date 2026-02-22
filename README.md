@@ -46,7 +46,5 @@ JAVA 위주로 공부 중이고, 알고리즘 공부도 병행하고 있습니�
  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rha6780)
  
 
-## 깃 활동 요약
-![rha6780 GitHub stats](https://github-readme-stats.vercel.app/api?username=rha6780&show_icons=true&theme=radical)
 
 
