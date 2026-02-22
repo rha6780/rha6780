@@ -31,6 +31,10 @@ JAVA 위주로 공부 중이고, 알고리즘 공부도 병행하고 있습니�
                     src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
                 <img alt="Terraform"
                     src="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=Terraform&logoColor=white" />
+                <img alt="React"
+                    src="https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=React&logoColor=black" />
+                <img alt="TypeScript"
+                    src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" />
  
  <br>
 
