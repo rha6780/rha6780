@@ -1,5 +1,7 @@
 <div align="center">
 
+[한국어](README.md) · [English](README.en.md)
+
 <!-- 눈 내리는 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA,89CFF0,CAF0F8&height=200&section=header&text=rha6780%20·%20변세정&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=🐧💻%20&descAlignY=60&descSize=16&animation=fadeIn" />
 
